@@ -12,13 +12,17 @@ Install the latest release of Looping [here](https://www.looping-mcd.fr/)
 ## Instructions
 
 1. Create the database
+
 Run the script: DB_NPC_Comics_Creation.sql
 
 2. Insert sample data
+
 Run the script: DB_NPC_Comics_Data.sql
 
 3. Apply validation constraints
+
 Run the script: DB_NPC_Comics_ValidationConstraints.sql
 
 4. Explore the database with SQL queries
+
 Run the script: DB_NPC_Comics_Exploration.sql
